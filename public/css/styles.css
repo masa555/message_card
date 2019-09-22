@@ -1,0 +1,23 @@
+@charset "utf8";
+
+/*button カスタマイズ*/
+
+.btn-primary {
+    color: white;
+    padding: 9px 8px;
+    border: 0 none;
+    font-weight: 200;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+/*footer*/
+
+.fixed-bottom {
+    text-align: center;
+    height: 70px;
+    background-color: #041727;
+    padding-top: 40px;
+    color: #ffffff;
+}
